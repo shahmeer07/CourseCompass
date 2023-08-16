@@ -1,13 +1,14 @@
 import { StatusBar } from "expo-status-bar";
 import { StyleSheet, Text, View } from "react-native";
+import StackNavigator from "./StackNavigator";
+import Splash from "./screens/Splash";
 import Login from "./screens/Login";
-import Footer from "./screens/Footer";
-
 export default function App() {
   return (
     <View style={styles.container}>
+      {/* <StackNavigator /> */}
+      {/* <Splash /> */}
       <Login />
-      <Footer />
       <StatusBar style="auto" />
     </View>
   );

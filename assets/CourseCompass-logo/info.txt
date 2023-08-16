@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: YoungSerif-Regular
+font link: https://github.com/uplaod/YoungSerif
+font author: Bastien Sozeau
+font author site: http://sozoo.fr/
+Slogan Font: KaushanScript-Regular.ttf
+
+icon designer: Icons By Alfredo
+icon designer link: /AlfredoCreates
+        
+{"bg":"#6D0AA4","icon":"#F2B16E","font":"#F2B16E","slogan":"#ffc582"}
+      

@@ -14,7 +14,7 @@ const Footer = () => {
 
 const styles = StyleSheet.create({
   footer: {
-    backgroundColor: "#4285F4", // Blue color
+    backgroundColor: "#000080", // Blue color
     flexDirection: "row",
     justifyContent: "flex-end",
     alignItems: "center",
